@@ -8,7 +8,7 @@
 - **Data de Conclusão:** Dezembro de 2024  
 
 
-O objetivo do projeto é implementar uma API para o gerenciamento de alunos, incluindo funcionalidades de cadastro, consulta e exclusão. Este backend foi desenvolvido em Python, utilizando **Flask** e segue os princípios básicos de desenvolvimento de APIs.
+O objetivo do projeto é implementar uma API para o gerenciamento de alunos, incluindo funcionalidades de cadastro, consulta e exclusão. Este backend foi desenvolvido em Python, utilizando Flask e segue os princípios básicos de desenvolvimento de APIs.
 
 ---
 
