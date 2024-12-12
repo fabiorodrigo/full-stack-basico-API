@@ -1,4 +1,4 @@
-# Cadastro de Alunos - Modulo Backend
+# Sistema de Gestão Escolar - Modulo Backend
 
 **Pós-Graduação em Engenharia de Software da PUC-Rio**.
 
