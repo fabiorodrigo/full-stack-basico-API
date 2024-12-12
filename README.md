@@ -1,4 +1,4 @@
-# Sistema de Gestão Escolar - Modulo Backend
+# Sistema de Gestão Escolar - Modulo Back-end
 
 **Pós-Graduação em Engenharia de Software da PUC-Rio**.
 
