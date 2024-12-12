@@ -47,17 +47,17 @@ Instale as bibliotecas necessárias listadas no arquivo requirements.txt:
 ```
 pip install -r requirements.txt
 ```
-**4. Executar a API**
+**4. Executar a API**<br/>
 Para iniciar o servidor da API, utilize o comando:
 ```
 flask run --host 0.0.0.0 --port 5000
 ```
-**5. Modo Desenvolvimento (opcional)**
+**5. Modo Desenvolvimento (opcional)**<br/>
 Para facilitar o desenvolvimento, utilize o parâmetro --reload, que reinicia o servidor automaticamente ao detectar alterações no código:
 ```
 flask run --host 0.0.0.0 --port 5000 --reload
 ```
-**6. Testar a API**
+**6. Testar a API**<br/>
 Abra o navegador e acesse:
 ```
 http://localhost:5000/#/
@@ -96,8 +96,9 @@ O projeto utiliza as seguintes bibliotecas e frameworks:
 
 
 ## **Contribuição**
-Este repositório foi desenvolvido como parte de um trabalho acadêmico. Contribuições são bem-vindas para fins educacionais ou de aprendizado. 
-Sinta-se à vontade para abrir issues ou enviar pull requests.
+Este repositório foi desenvolvido como parte de um trabalho acadêmico. 
+Contribuições são bem-vindas para fins educacionais ou de aprendizado!! 
+Sinta-se à vontade para abrir issues ou enviar pull requests =)
 
 
   
