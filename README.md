@@ -33,8 +33,8 @@ Ambiente virtual (opcional, mas recomendado): Utilize virtualenv ou venv para ge
 
 **1. Clonar o Repositório**
 ```
-git clone https://github.com/fabiorodrigo/meu_app_api.git
-cd meu_app_api
+git clone https://github.com/fabiorodrigo/gestao_escolar_api.git
+cd gestao_escolar_api
 ```
 **2. Criar e Ativar o Ambiente Virtual (opcional)**
 ```
